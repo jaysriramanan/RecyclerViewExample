@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">RecyclerViewExample</string>
+    <string-array name="values">
+        <item>Hyderabad</item>
+        <item>Chennai</item>
+        <item>Thiruvananthapuram </item>
+        <item> Bengaluru</item>
+        <item>Mumbai</item>
+        <item>Bubaneshwar</item>
+        <item>Kolkatta</item>
+        <item>Dispur</item>
+        <item>Gangtok</item>
+        <item>Agartala</item>
+        <item>Jaipur</item>
+        <item>Ahmedabad</item>
+        <item>Patna</item>
+    </string-array>
+
+    <string-array name="keys">
+        <item>Telangana</item>
+        <item>Tamil Nadu</item>
+        <item>Kerala</item>
+        <item>Karnataka</item>
+        <item>Maharashtra</item>
+        <item>Odissa</item>
+        <item>West Bengal</item>
+        <item>Assam</item>
+        <item>Shimla</item>
+        <item>Tripura</item>
+        <item>Rajasthan</item>
+        <item>Gujarat</item>
+        <item>Bihar</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="capital_city_image">Capital city image</string>
+
+    <string-array name="city_images">
+        <item>https://images.news18.com/ibnlive/uploads/2014/06/hyderabad-010614.jpg</item>
+        <item>https://www.goair.in/media/1523/chennai_01.jpg</item>
+        <item>http://gokerala.in/thumb/c/460/440/uploads/destination/trivandrum-SreePadmanabhaSwamyTemple.jpg</item>
+        <item>https://media-cdn.tripadvisor.com/media/photo-s/11/91/06/15/city-palace-bengaluru.jpg</item>
+        <item>http://www.indiantravelwaves.com/wp-content/uploads/2014/10/gateway-of-india-mumbai-400x400.jpg</item>
+        <item>http://res.cloudinary.com/himanshujain/image/upload/v1449864280/location/bhubaneswar_u7q8ko.jpg</item>
+        <item>https://content2.jdmagicbox.com/comp/kolkata/39/033p9993439/catalogue/dakshineswar-kali-temple-kolkata-temples-4bvqic7.jpg</item>
+        <item>http://im.rediff.com/news/2017/may/26bridge05.jpg</item>
+        <item>https://www.trawell.in/images/itinerary/sm/Gangtok_sm.jpg</item>
+        <item>http://www.finderbridge.com/wp-content/uploads/2018/07/Ujjayanta-Palace-3.jpg</item>
+        <item>https://media.cntraveller.in/wp-content/uploads/2014/02/Jal-Mahal-Jaipur-123rf-2-866x487.jpg</item>
+        <item>https://ahmedabadtourism.in/images/places-to-visit/headers/kankaria-lake-ahmedabad-entry-fee-timings-holidays-reviews-header.jpg</item>
+        <item>https://c1.hiqcdn.com/uploadimages/travel/Patna-1712_2.jpg</item>
+    </string-array>
+</resources>
